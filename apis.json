@@ -1,0 +1,82 @@
+{
+    "name": "Joyent",
+    "description": "Open source and Hybrid Cloud Infrastructure as a Service specialized in running Containers, Serverless Docker and VMs securely at scale for over a decade.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11655-joyent.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "containers",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/joyent\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Joyent",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11655-joyent.jpg",
+            "humanURL": "https:\/\/www.joyent.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/joyent-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/joyent-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.joyent.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/joyent"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@joyent.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@joyent.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@joyent.com"
+        },
+        {
+            "type": "Email",
+            "url": "aup@Joyent.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@joyent.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/joyent"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.joyent.com\/blog\/feed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/joyent"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.joyent.com\/"
+        }
+    ]
+}
